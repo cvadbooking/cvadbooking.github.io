@@ -1,0 +1,85 @@
+div {
+  margin: 10vh;
+  border:2px solid magenta;
+  border-radius:10px;
+  border-spacing:10vh;
+
+}
+
+h1:hover{
+  color:black;
+  background-color: magenta;
+}
+.maintext:hover{
+  color:black;
+  background-color: magenta;
+}
+h3:hover{
+  color:black;
+  background-color: magenta;
+}
+
+div{
+  background-color:black;
+}
+body {
+  background-color:black;
+  background-size: 10%;
+  background-position: center top;
+  background-image: url(https://d3n32ilufxuvd1.cloudfront.net/5a591fd47fcaf430a4715866/951477/upload-a487e110-06f6-11e8-8674-a709d30fc624.gif)
+}
+
+body {
+  color: white;
+  text-align: center;
+  padding:10vw;
+
+
+}
+.maintext {
+  text-align:left;
+}
+
+body {
+  font-family: 'Chakra Petch', sans-serif;
+
+}
+@keyframes tflash {
+  0% {color:magenta;}
+  50%{color:white;}
+  100%{color:magenta;}
+}
+.title{
+  font-size:8vh;
+  padding-top:1vh;
+}
+h1{
+  padding-top:2vh;
+  padding-bottom:2vh;
+  text-align:center;
+  font-size:8vh;
+}
+h3{
+  font-size: 2vh;
+  text-align:center;
+}
+h2{
+  margin-top: 10vh;
+  text-align:center;
+  animation-name: tflash;
+  animation-duration: 3.75s;
+  animation-iteration-count:4000;
+
+}
+
+h4 {
+  font-size: 2vh;
+  text-align:center;
+}
+#tblock {
+  margin: 1vh;
+
+}
+p{
+  padding:5vh;
+}
