@@ -36,6 +36,34 @@ body {
 
 
 }
+a{
+
+  text-decoration: none;
+}
+
+a:link{
+  padding-top:1vh;
+  padding-bottom:1vh;
+  color: #fffeff;
+  text-decoration: none;
+}
+a:visited{
+  color: #a2a2a2;
+  text-decoration: none;
+}
+a:hover{
+  background-color: #fffeff;
+  color: black;
+
+}
+.Nav {
+
+  font-size: 4vw;
+  color: #FfFeFf;
+  display: flex;
+  justify-content: space-between;
+
+}
 .maintext {
   text-align:left;
 }
