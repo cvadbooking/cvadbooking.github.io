@@ -8,15 +8,15 @@ div {
 
 h1:hover{
   color:black;
-  background-color: magenta;
+  background-color: #fffeff;
 }
 .maintext:hover{
   color:black;
-  background-color: magenta;
+  background-color: #fffeff;
 }
 h3:hover{
   color:black;
-  background-color: magenta;
+  background-color: #fffeff;
 }
 
 div{
@@ -30,7 +30,7 @@ body {
 }
 
 body {
-  color: white;
+  color: #fffeff;;
   text-align: center;
   padding:10vw;
 
@@ -76,7 +76,7 @@ body {
 }
 @keyframes tflash {
   0% {color:magenta;}
-  50%{color:white;}
+  50%{color:#fffeff;}
   100%{color:magenta;}
 }
 .title{
