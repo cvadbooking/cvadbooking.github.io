@@ -74,3 +74,13 @@ p:hover{
   border-top-left-radius: 100px;
   border-bottom-right-radius: 100px;
 }
+.text{
+  text-align: center;
+  font-size: 5vw;
+  color: #fffeff;
+  border-color: #fffeff;
+  border-width: 1vh;
+  border-style: solid;
+  border-top-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+}
