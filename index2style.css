@@ -1,0 +1,86 @@
+body {
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  background-color: black;
+  font-family: 'Bangers', cursive;
+
+
+}
+.Nav {
+
+  font-size: 4vw;
+  color: #FfFeFf;
+  display: flex;
+  justify-content: space-between;
+
+}
+.about :hover{
+  color: #fffeff;
+
+}
+
+hr{
+  margin-top: 0;
+}
+.about{
+  color: black;
+  text-align: center;
+}
+}
+a{
+
+  text-decoration: none;
+}
+
+a:link{
+  padding-top:1vh;
+  padding-bottom:1vh;
+  color: #fffeff;
+  text-decoration: none;
+}
+a:visited{
+  color: #a2a2a2;
+  text-decoration: none;
+}
+a:hover{
+  background-color: #fffeff;
+  color: black;
+
+}
+
+#subTitle {
+  font-size: 7vw;
+
+}
+p:hover{
+  color: black;
+  border-color: black;
+}
+.Title {
+  text-align: center;
+  width: 100vw;
+  padding: 3vw;
+  padding-bottom: 0;
+  margin-right: 0;
+  padding-right: 0;
+  display:inline-flex;
+  color: #FfFeFf;
+  font-size: 16vw;
+  justify-content: center;
+  border-color: #fffeff;
+  border-width: 1vh;
+  border-style: solid;
+  border-top-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+}
+.text{
+  text-align: center;
+  font-size: 2vw;
+  color: #fffeff;
+  border-color: #fffeff;
+  border-width: 1vh;
+  border-style: solid;
+  border-top-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+}
